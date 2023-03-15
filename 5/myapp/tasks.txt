@@ -1,0 +1,5 @@
+1. create 2 components Card & CardsContainer
+2. create array words with cards info
+3. Используя массив words в компоненте CardsContainer для каждого слова создать карточку Card. => вывести все слова на русском языке на экран
+4. Если у объекта в lang указано eng, то отобразить слово на английском. А если в lang rus - то на русском
+5. Стилизовать карточки
